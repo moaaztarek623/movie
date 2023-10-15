@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moaaztarek623/movie.git/static/css/main.c46a0183.css",
+    "main.js": "/moaaztarek623/movie.git/static/js/main.6323ae8f.js",
+    "static/media/1.png": "/moaaztarek623/movie.git/static/media/1.867a4dbf2afbff6dfcea.png",
+    "index.html": "/moaaztarek623/movie.git/index.html",
+    "main.c46a0183.css.map": "/moaaztarek623/movie.git/static/css/main.c46a0183.css.map",
+    "main.6323ae8f.js.map": "/moaaztarek623/movie.git/static/js/main.6323ae8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46a0183.css",
+    "static/js/main.6323ae8f.js"
+  ]
+}
